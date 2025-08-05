@@ -5,8 +5,6 @@ We explore both default and tuned versions to improve model performance and inte
 ## 📊 Dataset
 This project uses the Mushroom Dataset from Kaggle.
 
-Target Variable: class
-
 - 0 → Edible
 - 1 → Poisonous
 
@@ -78,5 +76,6 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
 
 
