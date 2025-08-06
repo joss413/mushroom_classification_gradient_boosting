@@ -42,7 +42,7 @@ This project uses the Mushroom Dataset from Kaggle.
 - Tuned to improve minority class prediction
 - Visualized feature importances
 
-#🧾 Results Summary
+## 🧾 Results Summary
 
 | Model                            | Accuracy | Precision (1) | Recall (1) | F1-Score (1) |
 |----------------------------------|----------|---------------|------------|--------------|
@@ -76,6 +76,7 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
 
 
 
